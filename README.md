@@ -1,6 +1,6 @@
-**Name:** Budda Harsha Naga Durga Prasad  
+**Name:** Aenugu Anish Reddy  
 **Company:** CODTECH IT Solutions  
-**ID:** CT08DS7591  
+**ID:** CT08DS7592  
 **Domain:** Data Science  
 **Duration:** July to August 2024  
 
@@ -54,4 +54,4 @@ The main objectives of this project are:
 
 ---
 
-This README provides a clear overview of your EDA project, summarizing the goals, techniques, and insights gained. Let me know if you need any adjustments!
+This README provides a clear overview of your EDA project, summarizing the goals, techniques, and insights gained. Let me know if you need any adjustments!# CODE-TECH-TASK1
